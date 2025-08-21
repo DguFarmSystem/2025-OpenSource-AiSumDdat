@@ -10,17 +10,15 @@
 
 ## 👋 Team Introduce
 
-| 이름  | 역할 (팀장, 디자인, FE, BE, AI) | 트랙   | 학과           | 학번 | 전화번호          | Email                                           |
-| --- | ------------------------ | ---- | ------------ | -- | ------------- | ----------------------------------------------- |
-| 유호준 | 팀장 / AI                  | 인공지능 | 컴퓨터공학과       | 23 |               | [sample@dgu.ac.kr](mailto:sample@dgu.ac.kr)     |
-| 이제혁 | AI                       | 인공지능 | 컴퓨터공학과       | 20 |               | [sample@dgu.ac.kr](mailto:sample@dgu.ac.kr)     |
-| 박정은 | AI                       | 인공지능 | 열린전공학부       | 25 |               | [sample@dgu.ac.kr](mailto:sample@dgu.ac.kr)     |
-| 정해윤 | AI                       | 인공지능 | 산업시스템공학과     | 24 |               | [sample@dgu.ac.kr](mailto:sample@dgu.ac.kr)     |
-| 백승빈 | BE                       | 보안/웹 | 정보통신공학과      | 19 |               | [sample@dgu.ac.kr](mailto:sample@dgu.ac.kr)     |
-| 박혜린 | BE                       | 보안/웹 | 컴퓨터공학과       | 23 |               | [sample@dgu.ac.kr](mailto:sample@dgu.ac.kr)     |
-| 김수빈 | FE                       | 보안/웹 | 불교학부         | 21 | 010-5501-7076 | [dewbeeny@gmail.com](mailto:dewbeeny@gmail.com) |
-| 이시우 | BE                       | 보안/웹 | 컴퓨터공학전공      | 21 |               | [sample@dgu.ac.kr](mailto:sample@dgu.ac.kr)     |
-| 예원  | Design                   | 보안/웹 | 미디어커뮤니케이션학전공 | 23 |               | [sample@dgu.ac.kr](mailto:sample@dgu.ac.kr)     |
+| 이름  | 역할 (팀장, 디자인, FE, BE, AI) | 트랙   | 학과           | 학번 |
+| --- | ------------------------ | ---- | ------------ | -- |
+| 유호준 | 팀장 / AI                  | 인공지능 | 컴퓨터공학과       | 23 |
+| 이제혁 | AI                       | 인공지능 | 컴퓨터공학과       | 20 |
+| 정해윤 | AI                       | 인공지능 | 산업시스템공학과     | 24 |
+| 백승빈 | BE                       | 보안/웹 | 정보통신공학과      | 19 |
+| 박혜린 | BE                       | 보안/웹 | 컴퓨터공학과       | 23 |
+| 김수빈 | FE                       | 보안/웹 | 불교학부         | 21 |
+| 예원  | Design                   | 보안/웹 | 미디어커뮤니케이션학전공 | 23 |
 
 ---
 
